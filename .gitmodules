@@ -1,0 +1,3 @@
+[submodule "git-submodule"]
+	path = git-submodule
+	url = git@github.com:kiyo27/git-submodule.git
