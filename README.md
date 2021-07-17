@@ -16,6 +16,8 @@ git switch main
 git fetch
 // 差分を確認
 git diff HEAD origin/main
+// ファイル名のみ表示
+git diff HEAD origin/main --name-only
 // ファイル単位
 git diff HEAD origin/main README.md
 // マージ
